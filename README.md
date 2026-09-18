@@ -24,6 +24,8 @@ AUX/
 
 ## Getting started
 
+New to the project or on a fresh machine? Follow [SETUP.md](SETUP.md) for a full step-by-step walkthrough. The summary below assumes prerequisites are already installed.
+
 ### Prerequisites
 
 - Node.js 22.13+ (use `nvm install 22` if your system Node is older)
